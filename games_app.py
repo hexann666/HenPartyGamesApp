@@ -1,7 +1,7 @@
 import streamlit as st
 import games
 
-st.image('data/header.jpg')
+st.image('https://raw.githubusercontent.com/hexann666/HenPartyGamesApp/main/data/header.JPG')
 #st.title('Hen Party Games')
 
 # setup pages for each use case
@@ -40,7 +40,3 @@ with st.expander("Drunk Pictionary"):
                 'A Nationality']
     cat = st.selectbox('Categories', category_list)
     st.markdown(games.DrunkPictionary(cat))
-
-
-
-
