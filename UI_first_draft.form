@@ -1,0 +1,66 @@
+{
+  "components": [
+    {
+      "values": [
+        {
+          "label": "Never have I ever",
+          "value": "value"
+        }
+      ],
+      "label": "Choose a game",
+      "type": "radio",
+      "id": "Field_0ixrb3u",
+      "key": "field_17vsqhp"
+    },
+    {
+      "values": [
+        {
+          "label": "Would you rather",
+          "value": "value"
+        }
+      ],
+      "type": "radio",
+      "id": "Field_1bxtqv1",
+      "key": "field_0wkmhpw",
+      "properties": {
+        "key1": "value"
+      }
+    },
+    {
+      "values": [
+        {
+          "label": "Drunk Pictionary",
+          "value": "value"
+        }
+      ],
+      "type": "radio",
+      "id": "Field_14y0m79",
+      "key": "field_0zdefg6"
+    },
+    {
+      "label": "Your Category is:",
+      "type": "number",
+      "id": "Field_0270r6h",
+      "key": "field_1jlom0i"
+    },
+    {
+      "text": "Never have I ever...",
+      "type": "text",
+      "id": "Field_02f2bin"
+    },
+    {
+      "text": "Would you rather...",
+      "type": "text",
+      "id": "Field_1ba0nzo"
+    }
+  ],
+  "type": "default",
+  "id": "Form_1izsly6",
+  "executionPlatform": "Camunda Cloud",
+  "executionPlatformVersion": "8.0.0",
+  "exporter": {
+    "name": "Camunda Modeler",
+    "version": "5.0.0"
+  },
+  "schemaVersion": 4
+}
